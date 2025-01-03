@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "require-from-string": "1.2.0"
+    "require-from-string": "2.0.2"
   },
   "devDependencies": {
     "mocha": "10.1.0",
